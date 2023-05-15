@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="038e121c-8a9f-4850-a181-655ae3920966" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/public/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/public/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/hero.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/heroes.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/heroesForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/layout.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squad.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squadForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squadHeroesForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squadHeroesSuccess.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squadSuccess.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/squads.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/templates/success.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Squad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/hero.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/heroes.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/heroesForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squad.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadHeroesForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadHeroesSuccess.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squadSuccess.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/squads.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/success.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="038e121c-8a9f-4850-a181-655ae3920966" name="Changes" comment="added README.md,insertions on APP,linked to uidisigner, added image," />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -83,6 +42,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/mnwanjiku/Desktop/moringa/HERO-SQUAD/resources/templates",
     "onboarding.tips.debug.path": "C:/Users/mnwanjiku/Desktop/moringa/HERO-SQUAD/src/main/java/org/example/Main.java"
   }
@@ -114,7 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1683966986051</updated>
     </task>
+    <task id="LOCAL-00001" summary="added README.md,insertions on APP,linked to uidisigner, added image,">
+      <created>1684177766000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684177766000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added README.md,insertions on APP,linked to uidisigner, added image," />
+    <option name="LAST_COMMIT_MESSAGE" value="added README.md,insertions on APP,linked to uidisigner, added image," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
