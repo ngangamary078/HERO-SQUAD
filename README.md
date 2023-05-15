@@ -2,7 +2,7 @@
 
 This project is about Hero Squad Game Using Java Program.
 
-Version Date: 12th May 2023
+Version Date: 14th May 2023
 
 By Mary Ng'ang'a
 
@@ -94,7 +94,7 @@ Once you have the necessary prerequisites installed, follow these steps to set u
 Clone the repository: Open your terminal or Git bash and navigate to the directory where you want to clone the project. Then, run the following command:
 
 Go to git bash and Copy code:
-git clone https://github.com/ngangamary078/JavaSparkWeekTwoHeroSquad.git
+git clone https://github.com/ngangamary078/HERO-SQUAD.git
 This will create a local copy of the project on your machine.
 
 Open the project in IntelliJ IDEA: Launch IntelliJ IDEA and select "Open" from the File menu. Navigate to the directory where you cloned the project and select it. IntelliJ IDEA will load the project.
@@ -109,7 +109,7 @@ That's it! You have successfully set up and installed the Hero Squad game on you
 
 **To access the code for learning:**
 
-1. Clone the repository: `git clone https://github.com/ngangamary078/JavaSparkWeekTwoHeroSquad.git
+1. Clone the repository: `git clone https://github.com/ngangamary078/HERO-SQUAD.git
 2. Open the cloned code on IntelliJ IDEA.
 3. Run the code to view the output.
 
@@ -128,7 +128,7 @@ If you need any assistance, have questions, ideas, or concerns, kindly contact m
 
 **GitHub URL Link**
 
-To view the project, visit the GitHub repository:(https://ngangamary078.github.io/JavaSparkWeekTwoHeroSquad/)
+To view the project, visit the GitHub repository:(https://ngangamary078.github.io/HERO-SQUAD/)
 
 ## License
 
