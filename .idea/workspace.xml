@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="038e121c-8a9f-4850-a181-655ae3920966" name="Changes" comment="added README.md,insertions on APP,linked to uidisigner, added image," />
+    <list default="true" id="038e121c-8a9f-4850-a181-655ae3920966" name="Changes" comment="amended README.md">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,12 +84,27 @@
       <option name="project" value="LOCAL" />
       <updated>1684177766000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added README.md,insertions on APP,linked to uidisigner, added image,">
+      <created>1684177834616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684177834616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="amended README.md">
+      <created>1684178900422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684178900422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added README.md,insertions on APP,linked to uidisigner, added image," />
-    <option name="LAST_COMMIT_MESSAGE" value="added README.md,insertions on APP,linked to uidisigner, added image," />
+    <MESSAGE value="amended README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="amended README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
