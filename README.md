@@ -134,4 +134,4 @@ To view the project, visit the GitHub repository:(https://ngangamary078.github.i
 
 The project is licensed under GPL (General Public License).
 
-Copyright (c) 2023 **Mary Ng'ang'a**
+Copyright (c) 2023 **Mary **
