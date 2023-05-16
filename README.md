@@ -126,7 +126,7 @@ There are no known bugs in this project.
 
 If you need any assistance, have questions, ideas, or concerns, kindly contact me through email: ngangamary078@gmail.com. You can also make a contribution to the code or seek assistance for the app/project.
 
-**GitHub URL Live Link**
+**GitHub URL Link**
 
 To view the project, visit the GitHub repository:(https://ngangamary078.github.io/HERO-SQUAD/)
 
