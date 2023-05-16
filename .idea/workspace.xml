@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="038e121c-8a9f-4850-a181-655ae3920966" name="Changes" comment="amended README.md">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HERO-SQUAD" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/mnwanjiku/Desktop/moringa/HERO-SQUAD/resources/templates",
+    "last_opened_file_path": "C:/Users/mnwanjiku/Desktop/moringa/HERO-SQUAD",
     "onboarding.tips.debug.path": "C:/Users/mnwanjiku/Desktop/moringa/HERO-SQUAD/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -98,11 +114,47 @@
       <option name="project" value="LOCAL" />
       <updated>1684178900422</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="amended index file">
+      <created>1684262058842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684262058842</updated>
+    </task>
+    <task id="LOCAL-00005" summary="amended README.md">
+      <created>1684262464094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684262464094</updated>
+    </task>
+    <task id="LOCAL-00006" summary="amended README.md">
+      <created>1684263026739</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684263026739</updated>
+    </task>
+    <task id="LOCAL-00007" summary="amended README.md">
+      <created>1684263125227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684263125227</updated>
+    </task>
+    <task id="LOCAL-00008" summary="amended README.md">
+      <created>1684263161062</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684263161062</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added README.md,insertions on APP,linked to uidisigner, added image," />
+    <MESSAGE value="amended index file" />
     <MESSAGE value="amended README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="amended README.md" />
   </component>
