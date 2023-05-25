@@ -62,7 +62,7 @@ public class SquadTest {
     @Test
     public void getHeroes_initiallyReturnsEmptyList_ArrayList() {
         Squad.clear();
-        Squad testSquad = new Squad("nerdsClubs", 5, "Computer iliteracy");
+        Squad testSquad = new Squad("nerdsClubs", 5, "Computer illiteracy");
         assertEquals(0, testSquad.getHeroes().size());
     }
 
@@ -77,7 +77,7 @@ public class SquadTest {
     @Test
     public void heroAlreadyExists_checksIfHeroExistsinSquads_true() {
         Squad testSquad = new Squad("nerdsClubs", 5, "Computer illiteracy");
-        Hero testHero = new Hero("prodigy", 20, "intelligent", "power outage");
+        Hero testHero = new Hero("prodigy", 20, "intelligent", "power failure");
         testSquad.addHero(testHero);
         assertTrue(testSquad.heroAlreadyExists(testHero));
 
