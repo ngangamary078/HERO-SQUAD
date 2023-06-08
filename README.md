@@ -1,4 +1,4 @@
-#  Hero Squad
+# Mary's Hero Squad
 
 This project is about Hero Squad Game Using Java Program.
 
